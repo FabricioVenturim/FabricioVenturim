@@ -20,10 +20,6 @@
   <img align="center" alt="Fabricio-C#" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
 
 
-  
-  <img align="right" height="300em" alt="Fabricio" src="https://media.giphy.com/media/H4DgojtuLT7slMWiq2/giphy.gif" style="max-width:100%;">
-</div>
-
 ##
 
 <div> 
