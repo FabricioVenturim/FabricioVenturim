@@ -1,8 +1,8 @@
 ### Heyy, I am Fabrício! 🤙
 
-- 🔭 Hoje estudo Ciência de Dados e Inteligência Artificial na Escola de Matemática Aplicada da FGV RJ
+- 🔭 Currently studying Data Science and Artificial Intelligence at the Applied Mathematics School of FGV RJ
 - 🌱 Proficient in C++, Python, SQL, JavaScript, and PowerBI
-- 📫 Contate-me no email: fabriciodalviventurim@gmail.com
+- 📫 Contact me at email: fabriciodalviventurim@gmail.com
 
 #### Additional interests in Visualization and Machine Learning:
 
