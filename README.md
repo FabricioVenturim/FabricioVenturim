@@ -4,6 +4,13 @@
 - 🌱 Estudando sempre python
 - 📫 Contate-me no email: fabriciodalviventurim@gmail.com
 
+#### Additional interests in Visualization and Machine Learning:
+
+📊 Data Visualization: I am passionate about creating visualizations that help to communicate complex data insights in a simple and intuitive way. I have experience with tools such as PowerBi, Tableau, matplotlib, and seaborn and I am always eager to learn new techniques and best practices in the field.
+
+🤖 Machine Learning: As a Data Science enthusiast, I am always fascinated by the potential of Machine Learning to extract valuable insights from data. I have experience with supervised and unsupervised learning techniques. I am always looking to improve my knowledge and skills in this exciting field.
+
+
 <div style="display: inline_block">
   <a href="https://github.com/FabricioVenturim">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FabricioVenturim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
